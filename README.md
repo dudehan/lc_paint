@@ -1,6 +1,6 @@
 # lc_paint
 
-A new Flutter package.
+扇形图及环状图绘制
 
 ## Getting Started
 
